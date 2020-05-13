@@ -1,4 +1,4 @@
-# Comfort Color Dark Theme for Obsidian.md
+# Comfort Color Dark Theme for [Obsidian.md](obisidan.md)
 
 > A dark theme for [Obsidian](obisidan.md), compatible to Obsidian V0.5.0
 
