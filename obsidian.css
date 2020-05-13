@@ -413,7 +413,7 @@ img
   margin-right: 10px !important;
 }
 
-/* remote secondary scroll bar in editor that comes from adding variable padding */
+/* remove secondary scroll bar in editor that comes from adding variable padding */
 .CodeMirror-scroll::-webkit-scrollbar {
     display: none;
 }
