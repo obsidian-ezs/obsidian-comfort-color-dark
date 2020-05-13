@@ -14,4 +14,4 @@
 
 4. Restart Obsidian.
 
-* The font used is Avenir, so make sure you have that downloaded in your font library to achieve the full effect
+_The font used is Avenir, so make sure you have that downloaded in your font library to achieve the full effect_
