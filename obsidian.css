@@ -380,7 +380,7 @@ img
   color: var(--text-title-h4);
 }
 
-.markdown-preview-view h5,
+.markdown-preview-view h5
 {
   font-family: var(--font-family-preview);
   font-weight: 500;
